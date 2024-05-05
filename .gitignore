@@ -72,3 +72,7 @@ build/
 Thumbs.db
 pyvenv.cfg
 venv/pyvenv.cfg
+.venv/Scripts/activate
+.venv/Scripts/activate.bat
+.venv/Scripts/Activate.ps1
+.venv/Scripts/deactivate.bat
